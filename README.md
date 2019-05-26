@@ -9,5 +9,5 @@ Unlike other build packs, I never compile anything.
 Add the following to your `.buildpacks`:
 
 ```
-https://github.com/giddyio/heroku-buildpack-ffmpeg-latest.git
+https://github.com/rorito/heroku-buildpack-ffmpeg-latest.git
 ```
